@@ -1,0 +1,22 @@
+* {
+    box-sizing: border-box;
+}
+
+td, tr {
+    padding: 8px;
+    text-align: left;
+    border-bottom: 1px solid rgb(226, 58, 58);
+}
+
+tr:hover {
+    background-color: #D6EEEE;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+h2:hover {
+    background-color: orange;
+}
